@@ -71,8 +71,8 @@ body {
   .grid {
     display: grid;
     grid-template-areas:
-      "black text"
-      "red text";
+      "red text"
+      "black text";
   
   }
   .box {
